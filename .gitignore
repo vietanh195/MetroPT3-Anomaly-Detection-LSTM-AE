@@ -1,0 +1,16 @@
+*.npy
+*.parquet
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+minmax_scaler.pkl
+agents/
+.agents/
+*.csv
+*.db
+*.sqlite3
+venv/
+.venv/
+env/
+.env
+.vscode/
